@@ -33,8 +33,8 @@ export default function NovaYork() {
       </View>
 
       <View style={styles.rodape}>
-        <Text style={styles.rodapeTexto}>Autor: Aluno Dsv Mobile</Text>
-        <Text style={styles.rodapeTexto}>Data: 2026</Text>
+        <Text style={styles.rodapeTexto}>Caio Bueno e Fernando Emanuel</Text>
+        <Text style={styles.rodapeTexto}>29/05/2026</Text>
       </View>
     </ScrollView>
   );
