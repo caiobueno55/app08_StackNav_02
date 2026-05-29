@@ -71,8 +71,8 @@ export default function Principal() {
       />
 
       <View style={styles.rodape}>
-        <Text style={styles.rodapeTexto}>Professor Luiz Fernando Corcini</Text>
-        <Text style={styles.rodapeTexto}>Material de Apoio - 2026</Text>
+        <Text style={styles.rodapeTexto}>Caio Bueno e Fernando Emanuel</Text>
+        <Text style={styles.rodapeTexto}>29/05/2026</Text>
       </View>
     </View>
   );
